@@ -12,45 +12,33 @@ USAGE
 
 To run the backend server of the chatbox application, follow these steps:
 
-    Change into the backend directory:
+Change into the backend directory:
 
- 
+    cd Chatbox-socket.io/backend
 
-cd Chatbox-socket.io/backend
+Install the dependencies:
 
-    Install the dependencies:
+    npm install
 
- 
+Start the server:
 
-npm install
-
-    Start the server:
-
- 
-
-npm start
+    npm start
 
 The backend server will now be running.
 
 To run the frontend client of the chatbox application, follow these steps:
 
-    Change into the chatty directory:
+Change into the chatty directory:
 
- 
+    cd Chatbox-socket.io/frontend/chatty
 
-cd Chatbox-socket.io/frontend/chatty
+Install the dependencies:
 
-    Install the dependencies:
+    npm install
 
- 
+Start the client:
 
-npm install
-
-    Start the client:
-
- 
-
-npm start
+    npm start
 
 The frontend client will now be running.
 
